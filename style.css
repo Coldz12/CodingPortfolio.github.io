@@ -1,0 +1,30 @@
+body {
+    background-color:#E8E8E8;
+}
+
+div {
+    text-align:center;
+    margin-left:120px;
+    margin-right:120px;
+    margin-bottom:35px;
+    border-radius:5px;
+    background-color:rgba(255, 255, 255, 0.5);
+    font-family:Arial, sans-serif;
+    padding-top:1px;
+    padding-bottom:0.5px;
+}
+
+.rates {
+    border-left:5px solid #787878;
+}
+
+img {
+    height:100px;
+    width:auto;
+    transition: height 2s;
+}
+
+img:hover {
+    height:600px;
+    width:auto;
+}
